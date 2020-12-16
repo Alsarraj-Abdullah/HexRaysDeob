@@ -9,7 +9,7 @@ Reference: [https://www.hex-rays.com/blog/hex-rays-microcode-api-vs-obfuscating-
 
 * Allows to runtime enable/disable the deobfuscator
 
-* After enable/disable press F5 again in the pseuco code view to refresh
+* After enable/disable press F5 again in the pseudo code view to refresh
 
 This uses the new C++ plugin API so it's only >= IDA 7.5 compatible
 
